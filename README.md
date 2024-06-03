@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-- 🌱  Focusing in Python | JavaScript | Machine Learning
+- 🌱  Focusing on Backend development | NodeJs | Java
 <br>
 - 🧭 On a Journey to become an Data Scientist
 </div>
