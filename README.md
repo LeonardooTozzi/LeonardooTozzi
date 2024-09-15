@@ -19,7 +19,7 @@
 <div align="center">
 - 🌱  Focusing on Backend development | NodeJs | Java
 <br>
-- 🧭 On a Journey to become an Data Scientist
+- 🧭 On a Journey to become an Backend Developer especialized in ERPs
 </div>
 <br>
 
